@@ -1,5 +1,5 @@
 
-<Version: 1.01>
+<Version: 0.0.2>
 /data/Map001.json https://raw.githubusercontent.com/JOYKIX/UpdaterForProject/main/Map001.json
 /data/MapInfos.json https://raw.githubusercontent.com/JOYKIX/UpdaterForProject/main/MapInfos.json
 <End of Version>

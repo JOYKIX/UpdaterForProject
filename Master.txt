@@ -1,4 +1,4 @@
 
-<Version: 1.01>
+<Version: 0.0.1>
 /data/test.zip https://wordpress.org/lastest.zip
 <End of Vesrion>
